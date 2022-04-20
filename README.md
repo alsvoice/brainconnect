@@ -1,5 +1,5 @@
 
-# BrainConnect
+BrainConnect
 ***
 BrainConnect is an open-source Python package for acquiring, processing and analysing physiological data with the aim of building Human-Computer and Brain-Computer Interfaces. 
 ---
