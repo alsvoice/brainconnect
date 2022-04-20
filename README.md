@@ -1,3 +1,4 @@
+![logo](https://alsvoice.org/static/media/ALS_logo.f2bc66843640ae1d306fcb669109059c.svg)
 
 # BrainConnect
 ---
