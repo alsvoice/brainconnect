@@ -14,4 +14,4 @@ It includes 5 modules, each of which manages a different block of a HCI / BCI :
 * _GUI_: it includes the functions related to the graphic interface to facilitate the use of the software.
     
 ***
-![hci]()
+![hci](https://github.com/alsvoice/brainconnect/blob/main/Images/hci.png)
