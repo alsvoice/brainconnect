@@ -1,12 +1,12 @@
 ![logo](https://alsvoice.org/static/media/ALS_logo.f2bc66843640ae1d306fcb669109059c.svg)
 
 # BrainConnect
----
+
 BrainConnect is an open-source Python package for acquiring, processing and analysing physiological data with the aim of building Human-Computer and Brain-Computer Interfaces. 
 
 ***
 ![hci](https://github.com/alsvoice/brainconnect/blob/main/Images/hci.png)
-***
+
 
 ## Modules
 
