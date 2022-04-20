@@ -15,3 +15,8 @@ It includes 5 modules, each of which manages a different block of a HCI / BCI :
     
 ***
 ![hci](https://github.com/alsvoice/brainconnect/blob/main/Images/hci.png)
+***
+
+
+## Licensing
+BrainConnect is GNU-GPLv3.0-licenced
