@@ -14,4 +14,4 @@ It includes 5 modules, each of which manages a different block of a HCI / BCI :
 * _GUI_: it includes the functions related to the graphic interface to facilitate the use of the software.
     
 ***
-![hci](https://drive.google.com/file/d/1X3LaDcEoV26m92k7C9fyYo6hkRu9qk5l/view?usp=sharing)
+![hci]()
