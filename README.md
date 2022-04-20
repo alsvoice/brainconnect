@@ -17,10 +17,10 @@ It includes 5 modules, each of which manages a different block of a HCI / BCI :
 * _Paradigms_: various available paradigms for a HCI / BCI, both in the offline and online versions.
 * _GUI_: graphic interface to facilitate the use of the software.
 
----
+
 ## Authors
 [_ALS Voice gGmbH_](https://alsvoice.org/)
 
----
+
 ## Licensing
-BrainConnect is GNU-GPLv3.0-licenced
+BrainConnect is GNU-GPLv3.0-licenced. You can reach us at contact@alsvoice.org.
