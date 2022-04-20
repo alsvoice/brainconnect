@@ -1,8 +1,8 @@
 
-BrainConnect
-***
-BrainConnect is an open-source Python package for acquiring, processing and analysing physiological data with the aim of building Human-Computer and Brain-Computer Interfaces. 
+# BrainConnect
 ---
+BrainConnect is an open-source Python package for acquiring, processing and analysing physiological data with the aim of building Human-Computer and Brain-Computer Interfaces. 
+
 It includes 5 modules, each of which manages a block of a HCI / BCI :
 
     * Devices: it includes the functions to manage the integration of various acquisition instruments (EEG, EOG, EMG, fNIRS).
